@@ -1,0 +1,424 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.logo img{
+    width: 100px;
+    height: auto;
+    margin-left: 2%;
+    padding-top: 1%;
+}
+@media screen and (max-width:1000px) {
+    .logo{
+        margin-right: 40%;
+    }
+}
+.navbar-brand{
+    position: relative;
+    /* width: 100px; */
+    
+    /* width: 100px; */
+}
+.navbar-brand2{
+    display: none;
+}
+
+#photo{
+    width: auto;
+    height: 650px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: black;
+
+}
+.one{
+    padding-left: 20%; 
+    padding-top: 12%;
+    background-color: white;
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+}
+
+.two{
+    width: 70%;
+    height: auto;
+    background-color: white;
+}
+.two img{
+    width: 100%;
+    height: auto;
+}
+
+
+.bike{
+    margin-top: .5%;
+}
+
+.three{
+    /* margin-left: 20%; */
+    padding-top: 10%;
+    background-color: black;
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+    padding-left: 20%;
+    color: white;
+}
+.cc{
+    background-color: black;
+}
+
+.four{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    padding-top: 5%;
+   
+}
+.four img{
+    /*width: 100%;*/
+    height: auto;
+
+}
+
+.main{
+    margin-top: .5%;
+
+}
+
+
+.five{
+    /* margin-left: 20%; */
+    padding-top: 15%;
+    background-color: black;
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+    padding-left: 20%;
+    color: white;
+}
+.cc{
+    background-color: black;
+}
+
+.six{
+    width: 100%;
+    height: auto;
+    background-color: rgb(6, 6, 6) ;
+    padding-top: 5%;
+   
+}
+.six img{
+    /*width: 100%;*/
+    height: auto;
+    /* padding-top: .5%; */
+
+}
+
+
+.car{
+    margin-top: .5%;
+}
+
+.seven{
+    /* margin-left: 20%; */
+    padding-top: 10%;
+    background-color: #fafafa;
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+    padding-left: 20%;
+   
+}
+.cc{
+    background-color: black;
+}
+
+
+.eight{
+    width: 100%;
+    height: auto;
+    background-color:  #fafafa;
+   /* padding-top: 5%;*/
+   
+}
+.eight img{
+    /*width: 100%;*/
+    height: auto;
+    /* padding-top: .5%; */
+}
+
+
+.cycle{
+    margin-top: .5%;
+}
+
+.nine{
+    /* margin-left: 20%; */
+    padding-top: 10%;
+    background-color: #fafafa;
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+    padding-left: 20%;
+   
+}
+
+.ten{
+    width: 100%;
+    height: auto;
+    background-color:  #fafafa;
+}
+
+.ten img{
+    height: auto;
+}
+
+
+.pen{
+    margin-top: .5%;
+    width: fit-content;
+    height: fit-content;
+    background-image: linear-gradient(to top, #cdd8ea, #cdd8ea, #e4edfe);
+}
+
+.eleven{
+    /* margin-left: 20%; */
+    padding-top: 10%;
+
+    width: 30%;
+    height: 600px;
+    line-height: 2.6;
+    padding-left: 20%;
+    background-image: linear-gradient(to top, #cdd8ea, #cdd8ea, #e4edfe);
+   
+}
+
+.twelve{
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(to top, #cdd8ea, #cdd8ea, #e4edfe);
+}
+
+.twelve img{
+    height: auto;
+}
+
+
+.foot{
+    cursor: pointer;
+}
+
+.foot1{
+    cursor: pointer;
+}
+
+.foot2{
+    cursor: pointer;
+}
+
+.foot3{
+   cursor: pointer;
+}
+
+.foot4{
+cursor: pointer;
+}
+.div1{
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+}
+.div2{
+    width: 50%;
+    height: 100px;
+    background-color: red;
+}
+
+.item{
+    
+    color: black;
+    padding-top: 5%;
+}
+
+
+
+.item:hover{
+    filter: brightness(20px);
+    /*color: black;*/
+}
+
+.one1{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one1:hover{
+    color: black;
+    text-decoration: none !important;
+}
+
+.one2{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one2:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one3{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one3:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one4{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one4:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one5{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one5:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one6{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one6:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one7{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one7:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one8{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one8:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one9{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one9:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.one10{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.one10:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
+.two1{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.two1:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.two2{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.two2:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.two3{ 
+    color: lightslategray;
+    cursor: pointer;
+    
+}
+.two3:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.two4{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.two4:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
+.four1{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.four1:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.four2{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.four2:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.four3{ 
+    color: lightslategray;
+    cursor: pointer;
+}
+.four3:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.phone img{
+    width: 6%;
+    margin-left: 15px;
+
+    
+}
+.phone{
+    padding-left: 70%;
+    width: 94%;
+}
